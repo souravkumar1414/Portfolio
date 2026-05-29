@@ -93,6 +93,15 @@ const projects = [
             github: "#"
         }
     },
+    {
+        title: "Tech Company Dax Project and Power BI Dashboard",
+        description: "Consists of  Business Intelligence solution built using Microsoft Power BI Desktop. Our main aim  was to take a large and messy dataset of a technology company and turn it into a clean, interactive, and visually appealing dashboard that anyone can use to understand the business performance at a glance.",
+        technologies: ["Microsoft Excel", "DAX", "Power Query Editor", "VeriPaq Engine"],
+        image: "📊",
+        links: {
+            github: "#"
+        }
+    }
     
 ];
 
